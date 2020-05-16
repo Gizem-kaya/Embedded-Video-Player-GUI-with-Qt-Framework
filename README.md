@@ -1,4 +1,4 @@
-# Cpp
+# LCD Video Player GUI with Qt
 
 ## The project to write a video playback interface from the memory of an existing electronic board or url.
 
