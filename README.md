@@ -1,4 +1,4 @@
-# LCD Video Player GUI with Qt
+# LCD Video Player GUI with Qt Creator
 
 ## The project to write a video playback interface from the memory of an existing electronic board or url.
 
