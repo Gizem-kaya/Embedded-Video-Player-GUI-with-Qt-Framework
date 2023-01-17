@@ -1,6 +1,6 @@
 # Embedded Video Player GUI with Qt Framework
 
-## The project to write a video playback interface from the memory of an existing electronic board or an URL.
+## A video playback interface from the memory of an existing electronic board or an URL.
 
 
 ![Screenshot_1](https://user-images.githubusercontent.com/32525636/66859290-ab9dfe80-ef93-11e9-82b5-17ac419523f1.png)
